@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>缘起 · Yancheng 的 AI Podcast</title>
+    <link>https://github.com/wyc77209-source/yuanqi-ai-podcast</link>
+    <description>以作者视角讲研究，以公开证据聊 AI。本人音色经 ElevenLabs 合成配音。</description>
+    <language>zh-cn</language>
+    <itunes:author>Yancheng Wang</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <item>
+      <title>AI 做不出题，开始研究出题系统？｜OpenAI / Hugging Face 事件复盘</title>
+      <link>https://github.com/wyc77209-source/yuanqi-ai-podcast/releases/tag/v1.0.0</link>
+      <guid isPermaLink="false">yuanqi-hf-incident-2026-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
+      <description>本人自定义音色经 ElevenLabs 合成。完整文字稿与来源见 GitHub。</description>
+      <enclosure url="https://github.com/wyc77209-source/yuanqi-ai-podcast/releases/download/v1.0.0/hf-incident-2026.mp3" length="12324820" type="audio/mpeg" />
+      <itunes:duration>00:08:33</itunes:duration>
+    </item>
+    <item>
+      <title>AI 刷遍猫图，为什么遇到雪豹还是偏科？｜ICCV 2025 SEL</title>
+      <link>https://github.com/wyc77209-source/yuanqi-ai-podcast/releases/tag/v1.0.0</link>
+      <guid isPermaLink="false">yuanqi-sel-iccv2025-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
+      <description>本人自定义音色经 ElevenLabs 合成。完整文字稿与来源见 GitHub。</description>
+      <enclosure url="https://github.com/wyc77209-source/yuanqi-ai-podcast/releases/download/v1.0.0/sel-iccv2025.mp3" length="4871956" type="audio/mpeg" />
+      <itunes:duration>00:03:23</itunes:duration>
+    </item>
+  </channel>
+</rss>

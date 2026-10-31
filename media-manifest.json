@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "sel-iccv2025.mp4",
+    "bytes": 7802249,
+    "sha256": "1d67a4119ab7944af083603ccc2c5e74f415ecdb2f86b7ef4420c34ac993fcf3"
+  },
+  {
+    "filename": "sel-iccv2025.mp3",
+    "bytes": 4871956,
+    "sha256": "ba4da9c93ed90fcbf586a5b8683bbcda83a3a1db472142f54310475297c1350e"
+  },
+  {
+    "filename": "sel-iccv2025.srt",
+    "bytes": 5313,
+    "sha256": "856b602e14210279c0ee7f5764aba6ece01390ddd6fb3aa3848eb57e637d1ea8"
+  },
+  {
+    "filename": "hf-incident-2026.mp4",
+    "bytes": 19578183,
+    "sha256": "12b70a51b5edd0213d8e7dce3531a47ca8dfab1e0bb3bb55a4889447eb016c3a"
+  },
+  {
+    "filename": "hf-incident-2026.mp3",
+    "bytes": 12324820,
+    "sha256": "c97d05098a1058b103d30f6a6d5493f8a338fc695b97c6fc0163a358168e03fe"
+  },
+  {
+    "filename": "hf-incident-2026.srt",
+    "bytes": 12215,
+    "sha256": "2a1df690315bfa4a518b1a16575a5cbca2ad1a3d82a9cb2a1c3154d4ed6f5c14"
+  }
+]
