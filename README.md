@@ -1,15 +1,27 @@
 # 缘起 · Yancheng 的 AI Podcast
 
-两期独立节目：
+节目定位与档期参见 [PROGRAM.md](PROGRAM.md)（运行中的节目总表 / 日历）。
 
-1. **AI 刷遍猫图，为什么遇到雪豹还是偏科？** — ICCV 2025 SEL 论文解说。
-2. **AI 做不出题，开始研究出题系统？** — 2026 年 OpenAI / Hugging Face 事件复盘。
+## 已发布节目（2 期短片）
+
+1. **E01 · AI 刷遍猫图，为什么遇到雪豹还是偏科？** — ICCV 2025 SEL 论文解说（约 3 分 23 秒）。
+2. **E02 · AI 做不出题，开始研究出题系统？** — 2026 年 OpenAI / Hugging Face 事件复盘（约 8 分 33 秒）。
 
 完整 MP3、MP4 与字幕通过本仓库 Releases 分发；稿件和来源在 episodes 目录。两期使用主播已确认的本人自定义音色，通过 ElevenLabs 合成配音，含统一 Q 版动画片头。音色参考来自用户此前确认的 AI 年度纪要，不公开原始录音、音色参数文件或克隆模型。
 
+    10|## 待录制节目（2 期 30 分钟口播稿）
+
+3. **E03 · 视觉里的探索，和大模型的主动搜索，差在哪里？**（计划 2026-12-06，约 30 分钟）  
+   稿件：[episodes/2026-12-06-vision-and-search/script.zh-CN.md](episodes/2026-12-06-vision-and-search/script.zh-CN.md)  
+   兑现 E01 片尾预告，把 3 分钟版讲深，并对比视觉探索和外部工具搜索的边界。
+
+4. **E04 · 我们到底在测什么？从出题系统谈起**（计划 2026-12-07，约 30 分钟）  
+   稿件：[episodes/2026-12-07-what-we-measure/script.zh-CN.md](episodes/2026-12-07-what-we-measure/script.zh-CN.md)  
+   把 E02 的评测与目标偏移问题展开成半小时，不重复可利用的技术细节。
+
 节目不提供攻击教程。事件复盘区分公开事实、机构判断和主播观点；不将协作行为直接等同于意识或人格。
 
-SEL 独立研究资料包： https://github.com/wyc77209-source/sel-iccv2025
+    20|SEL 独立研究资料包： https://github.com/wyc77209-source/sel-iccv2025
 
 ## 发布渠道状态
 
